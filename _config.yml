@@ -1,0 +1,5 @@
+title: ポラリミクス
+description: 好き嫌いの力学モデル——極性・虚無・射出の体系
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
